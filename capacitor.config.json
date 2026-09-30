@@ -1,0 +1,15 @@
+{
+  "appId": "com.shieldvpn.app",
+  "appName": "ShieldVPN",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://ais-pre-lxyhvlf43zjlubtgwuiteu-577151016284.asia-southeast1.run.app",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}
